@@ -11,7 +11,7 @@ body{
     align-items: center;
     justify-content: center;
     color: white;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/images/newyr.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(newyr.jpg);
     background-size: cover;
     
 }
